@@ -1,3 +1,7 @@
+/*
+	vbitz.com Common CSS
+*/
+
 body {
 	font-family: sans-serif;
 	font-weight: lighter;
@@ -27,6 +31,10 @@ body {
 	padding: 2px;
 }
 
+small.brand {
+	font-size: 18px;
+}
+
 .btn {
 	float: right;
 	padding: 5px 10px;
@@ -34,4 +42,8 @@ body {
 	border: 1px solid white;
 	color: #eaeaea;
 	text-decoration: none;
+}
+
+button {
+	border: 1px solid #202020;
 }
