@@ -1,0 +1,37 @@
+body {
+	font-family: sans-serif;
+	font-weight: lighter;
+}
+
+.container {
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 60px;
+}
+
+.topBar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+
+	padding: 10px;
+
+	background-color: #202020;
+	color: #eaeaea;
+}
+
+.brand {
+	float: left;
+	font-size: 22px;
+	padding: 2px;
+}
+
+.btn {
+	float: right;
+	padding: 5px 10px;
+	margin-right: 10px;
+	border: 1px solid white;
+	color: #eaeaea;
+	text-decoration: none;
+}
